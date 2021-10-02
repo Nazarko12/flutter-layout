@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_layout_screen">
+    package="com.example.lab2">
    <application
-        android:label="flutter_layout_screen"
+        android:label="lab2"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
