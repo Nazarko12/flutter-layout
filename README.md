@@ -1,3 +1,3 @@
-# Flutter
+# Flutter framework
 
 Responsive application
